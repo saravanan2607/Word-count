@@ -27,8 +27,10 @@ Stop the python notebook.
 
 
 ## PROGRAM:
+```
 Name: C Saravanan
 Register Number: 22008175
+
 num_word=0
 with open("try5.txt","r")as f:
     for i in f:
@@ -36,6 +38,7 @@ with open("try5.txt","r")as f:
         num_word+=len(word)
 print("The Number of words in the file is {}".format(num_word))
 
+```
 
 
 ### OUTPUT:
